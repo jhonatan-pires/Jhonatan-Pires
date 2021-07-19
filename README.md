@@ -7,16 +7,3 @@
 
 - 🎓Graduando em Ciências da Computação ( Universidade Paulista - UNIP )
 - 💻 Estudando Java e Angular, Trabalhando com o intuito em ser Desenvolvedor de Software.
-
-
-<center>
-    <table align="center">
-      <tr>
-          <td>
-              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatan-pires&count_private=true&hide_border=true" />
-          </td>
-          <td>
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-pires&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
-      </tr>  
-    </table>
-</center>
