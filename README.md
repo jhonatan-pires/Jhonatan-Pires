@@ -5,4 +5,5 @@
 
 
 - 🎓Graduando em Ciências da Computação ( Universidade Paulista - UNIP )
-- 💻 Estudando Java e Angular, Trabalhando com o intuito em ser Desenvolvedor de Software.
+- 💻Estudando Java e Angular, Trabalhando com o intuito em ser Desenvolvedor de Software.
+- 👨🏽‍💻Desenvolvedor Java Junior
